@@ -67,7 +67,7 @@ class _SignUpPageState extends State<SignUpPage>
                   child: FadeTransition(
                     opacity: _animation,
                     child: Text(
-                      "Join Helping Mart",
+                      "Join SwapSave",
                       style: GoogleFonts.poppins(
                         textStyle: TextStyle(
                           color: Colors.white,
