@@ -63,7 +63,7 @@ class _SignInPageState extends State<SignInPage> with SingleTickerProviderStateM
                         child: FadeTransition(
                           opacity: _fadeInAnimation,
                           child: Text(
-                            "Helping Mart",
+                            "SwapSave",
                             style: GoogleFonts.poppins(
                               color: Colors.white,
                               fontSize: 28,
