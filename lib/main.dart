@@ -11,7 +11,7 @@ class PoorMartApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Helping Mart',
+      title: 'SwapSave',
       debugShowCheckedModeBanner: false,
       initialRoute: '/signin',
       routes: {
